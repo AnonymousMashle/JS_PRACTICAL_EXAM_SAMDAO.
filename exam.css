@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(42, 143, 84);
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: azure;
+}
+
+.dash{
+    color: black;
+    font-size: large;
+}
+
+p{
+    color: whitesmoke;
+}
+
+ul{
+    color: white;
+    text-align: center;
+    align-items: center;
+}
